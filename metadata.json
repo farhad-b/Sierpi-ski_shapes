@@ -1,0 +1,5 @@
+{
+  "name": "Chaos Game Explorer",
+  "description": "An interactive visualization of the Chaos Game algorithm, generating fractals like the Sierpiński triangle and beyond by generalizing regular polygons and compression ratios.",
+  "requestFramePermissions": []
+}
